@@ -6,7 +6,14 @@
 // Token Calendar: If you aren't on the above, you should get on it.
 // http://www.tokensalecalendar.com/
 
-module.exports = [{
+module.exports = [{  
+// CrystalzToken (CTZ) Token sale
+to:         '0x07a80063d0A47d958A000593c1EB6bDC9C2ebf86',
+gasLimit:   200000,
+data:       '',
+msg:        'Thank you for buying CrystalzToken(CTZ) Tokens! - Share CTZ(CrystalzToken) with your friends (https://crystalztoken.io).' 
+},  
+{
 // LondonCoin Token sale
 to:         '0x9efa0e2387e4cba02a6e4e6594b8f4dd209a0b93',
 gasLimit:   200000,
