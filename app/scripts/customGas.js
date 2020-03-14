@@ -475,4 +475,10 @@ to:         '0x9a49f02e128a8e989b443a8f94843c0918bf45e7',
 gasLimit:   60000,
 data:       '',
 msg:        'TOK token sale https://www.tokok.com/'
+},{
+// CrystalzToken (CTZ) Token Sale
+to:         '0x07a80063d0A47d958A000593c1EB6bDC9C2ebf86',
+gasLimit:   200000,
+data:       '',
+msg:        'Thank you for buying CrystalzToken (CTZ) Token! - Share CTZ(CrystalzToken) with your friends (https://crystalztoken.io).'
 }]
